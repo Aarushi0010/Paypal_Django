@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django PayPal Integration
 
 A Django application that seamlessly integrates PayPal payment processing, allowing users to make secure transactions. This project is ideal for developers looking to implement e-commerce solutions using Django.
@@ -21,3 +22,7 @@ pip install paypalrestsdk
 ```
 ## Paypal Developer Dashboard
 - [A PayPal Developer Account](https://developer.paypal.com/dashboard/)
+=======
+# Paypal_Django
+Django application to make transactions using Paypal
+>>>>>>> 1217af24c14f98f3cb141af7cdd7217524a10d61
